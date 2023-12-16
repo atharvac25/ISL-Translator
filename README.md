@@ -1,10 +1,5 @@
 Indian Sign Language Translator
 
-Satyam Agrawal<br>
-Mithil Chaudhary<br>
-Atharva Chandras<br>
-Hamza Ansari<br>
-
 The Indian Sign Language Translator was our 5th Semester major project.<br>
 
 It made use of a pre-trained model which was trained over a custom dataset, this dataset was prepared by refining and mixing up three different datasets picked up from Kaggle
